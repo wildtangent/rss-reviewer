@@ -1,5 +1,6 @@
-PATH
-  remote: ~/gpio
+GIT
+  remote: git@github.com:noahhal/gpio.git
+  revision: 36a8b89067330821f1ba4a960382f810815fa3f0
   specs:
     gpio (0.0.7)
 
