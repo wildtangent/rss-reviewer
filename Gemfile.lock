@@ -1,0 +1,22 @@
+PATH
+  remote: ~/gpio
+  specs:
+    gpio (0.0.7)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    eventmachine (1.0.3)
+    mini_portile (0.5.1)
+    nokogiri (1.6.0)
+      mini_portile (~> 0.5.0)
+    nori (2.2.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  eventmachine
+  gpio!
+  nokogiri
+  nori
